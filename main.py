@@ -18,6 +18,4 @@ if __name__ == '__main__':
     csv_file_path = 'sample_data.csv'
 
     # Call the function
-    print("Testing a branch")
     read_and_print_csv(csv_file_path)
-    print("Testing branch again")
